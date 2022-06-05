@@ -9,7 +9,7 @@
 	<title>
 	Comments for jonathanmorales	</title>
 	<atom:link href="http://localhost/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/http://jonathanmorales.net/JonMoralWebsite</link>
+	<link>https://jonathanmorales.net/JonMoralWebsite</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 05 Jun 2022 16:16:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/http://jonathanmorales.net/JonMoralWebsite/2022/06/05/hello-world/#comment-1</link>
+		<link>https://jonathanmorales.net/JonMoralWebsite/2022/06/05/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 05 Jun 2022 15:16:54 +0000</pubDate>
-		<guid isPermaLink="false">/http://jonathanmorales.net/JonMoralWebsite/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://jonathanmorales.net/JonMoralWebsite/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
